@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CrashLogger
 - 👀 I’m interested in microcontrollers, telecommunication, aerospace and computer science.
-- 📫 How to reach me discord: CrashLogger#4283 or email at erlantz.alonso@live.com for important stuff.
+- 📫 How to reach me email at ealonso074@ikasle.ehu.eus for important subjects, erlantz.alonso@live.com for everything else.
 - 🐦 I'm also on twitter @erlantz_ouo
-- 😎 Stan Mitsuha
-- 🖥️ Telecomms Student, UPV/EHU
+- 🐘 I'm also on mastodon @crashlogger@mastodon.eus
+- 🖥️ 2nd year Telecomms Engineering Student, UPV/EHU
 
 <!---
 CrashLogger/CrashLogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
