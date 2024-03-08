@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrashLogger
-- 👀 I’m interested in microcontrollers, telecommunication, trains, aerospace and computer science.
+- 👀 I’m interested in telecommunication, trains, aerospace, microcontrollers and computer science.
 
 <!---
 CrashLogger/CrashLogger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
